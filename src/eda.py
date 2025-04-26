@@ -1,0 +1,10 @@
+def descriptive_info(df):
+    print('🔍 Here you can find some information about the processed dataset:')
+    print(f'It has {df.shape[0]} rows and {df.columns[1]}')
+    print(f'Its columns are: {list(df.columns)}')
+    print(df.info())
+    print(f'There are {df.duplicated().sum()} duplicates')
+    print(df.describe(include='all'))
+    print('Here are the first and last rows:')
+    print(df.head(5))
+    print(df.tail(5))
