@@ -9,7 +9,6 @@
 _(hasta este punto lo hace el main.py, A PARTIR DE AQUÍ, TENDREMOS QUE VINCULAR LA SPREADSHEET CON LOOKER Y AUTOMATIZAR CON WINDOWS)_
 
 4. Crear Dashboard mediante  Looker Studio 🧑🏼‍🎨 
-_(lamentablemente sin cuenta de empresa no podremos automatizar el proceso con Power BI)_
 5. Automatizar actualización de datos (recogida diaria de datos) 🧙🏼‍♂️
 
 # Requisitos previos:
